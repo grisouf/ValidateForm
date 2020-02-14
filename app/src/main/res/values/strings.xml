@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ValidateForm</string>
+
+    <!-- Error Messages -->
+    <string name="err_name">Enter Name (AAAA*)</string>
+    <string name="err_date">Enter Date (yyyy/mm/dd)</string>
+    <string name="err_email">Enter Email (aaaaa@tdi.com)</string>
+    <string name="err_pass">Enter password in that format (Aaaaa12a)</string>
+</resources>
